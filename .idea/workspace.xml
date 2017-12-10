@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9ba158a-e68c-4fe9-bb05-507fbf43e336" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/adventofcode_2017/exercise5.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/adventofcode_2017/input/exercise-5.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/exercise5.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/adventofcode_2017/exercise6.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/adventofcode_2017/input/exercise-6.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/exercise6.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/adventofcode_2017/__init__.py" afterPath="$PROJECT_DIR$/adventofcode_2017/__init__.py" />
     </list>
@@ -16,9 +16,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/2017$Unittests_in_exercise5_py.coverage" NAME="Unittests in exercise5.py Coverage Results" MODIFIED="1512941381871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/2017$Unittests_in_exercise5_py.coverage" NAME="Unittests in exercise5.py Coverage Results" MODIFIED="1512944656186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/2017$Unittests_in_exercise1_py.coverage" NAME="Unittests in exercise4.py Coverage Results" MODIFIED="1512882818507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
-    <SUITE FILE_PATH="coverage/2017$Adventofcode.coverage" NAME="Adventofcode Coverage Results" MODIFIED="1512941406786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/2017$Adventofcode.coverage" NAME="Adventofcode Coverage Results" MODIFIED="1512945029835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -26,17 +26,39 @@
         <entry file="file://$PROJECT_DIR$/adventofcode_2017/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="128">
-              <caret line="8" column="83" lean-forward="false" selection-start-line="8" selection-start-column="83" selection-end-line="8" selection-end-column="83" />
+              <caret line="8" column="94" lean-forward="false" selection-start-line="8" selection-start-column="94" selection-end-line="8" selection-end-column="94" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="exercise5.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="exercise5.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/adventofcode_2017/exercise5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="64" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exercise1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/adventofcode_2017/exercise1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exercise6.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/adventofcode_2017/exercise6.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="201">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding>
                 <element signature="e#0#12#0" expanded="true" />
               </folding>
@@ -50,18 +72,6 @@
             <state relative-caret-position="13175">
               <caret line="1069" column="4" lean-forward="false" selection-start-line="1069" selection-start-column="4" selection-end-line="1069" selection-end-column="4" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="exercise3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/adventofcode_2017/exercise3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#12#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -103,8 +113,8 @@
       <file leaf-file-name="exercise5.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/exercise5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="14" column="47" lean-forward="false" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+            <state relative-caret-position="80">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -112,11 +122,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="exercise3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/exercise3.py">
+      <file leaf-file-name="exercise6.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/exercise6.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="4" column="38" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="38" />
+            <state relative-caret-position="144">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -155,10 +165,13 @@
         <option value="$PROJECT_DIR$/adventofcode_2017/input/exercise-4.txt" />
         <option value="$PROJECT_DIR$/adventofcode_2017/exercise4.py" />
         <option value="$PROJECT_DIR$/test/exercise4.py" />
-        <option value="$PROJECT_DIR$/adventofcode_2017/__init__.py" />
         <option value="$PROJECT_DIR$/adventofcode_2017/input/exercise-5.txt" />
         <option value="$PROJECT_DIR$/test/exercise5.py" />
         <option value="$PROJECT_DIR$/adventofcode_2017/exercise5.py" />
+        <option value="$PROJECT_DIR$/adventofcode_2017/input/exercise-6.txt" />
+        <option value="$PROJECT_DIR$/adventofcode_2017/__init__.py" />
+        <option value="$PROJECT_DIR$/test/exercise6.py" />
+        <option value="$PROJECT_DIR$/adventofcode_2017/exercise6.py" />
       </list>
     </option>
   </component>
@@ -262,7 +275,7 @@
       <module name="2017" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cli.py" />
-      <option name="PARAMETERS" value="ex5" />
+      <option name="PARAMETERS" value="ex6" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -280,7 +293,7 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="_new_pattern" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/exercise5.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/exercise6.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list size="2">
@@ -316,28 +329,17 @@
       <option name="project" value="LOCAL" />
       <updated>1512882945155</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Exercise 5">
+      <created>1512942560284</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1512942560285</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_exercise5_py - 2017.12.10 at 09h 10m 10s.xml">
-      <configuration name="Unittests in exercise5.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_exercise5_py - 2017.12.10 at 09h 10m 14s.xml">
-      <configuration name="Unittests in exercise5.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_exercise5_py - 2017.12.10 at 09h 12m 06s.xml">
-      <configuration name="Unittests in exercise5.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_exercise5_py - 2017.12.10 at 13h 14m 11s.xml">
-      <configuration name="Unittests in exercise5.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_exercise5_py - 2017.12.10 at 13h 14m 17s.xml">
-      <configuration name="Unittests in exercise5.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_exercise5_py - 2017.12.10 at 13h 24m 47s.xml">
-      <configuration name="Unittests in exercise5.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_in_exercise5_py - 2017.12.10 at 13h 27m 23s.xml">
       <configuration name="Unittests in exercise5.py" configurationId="tests" />
     </history-entry>
@@ -350,6 +352,24 @@
     <history-entry file="Unittests_in_exercise5_py - 2017.12.10 at 13h 29m 45s.xml">
       <configuration name="Unittests in exercise5.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_in_exercise5_py - 2017.12.10 at 14h 20m 38s.xml">
+      <configuration name="Unittests in exercise5.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_exercise5_py - 2017.12.10 at 14h 21m 59s.xml">
+      <configuration name="Unittests in exercise5.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_exercise5_py - 2017.12.10 at 14h 23m 02s.xml">
+      <configuration name="Unittests in exercise5.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_exercise5_py - 2017.12.10 at 14h 23m 21s.xml">
+      <configuration name="Unittests in exercise5.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_exercise5_py - 2017.12.10 at 14h 24m 16s.xml">
+      <configuration name="Unittests in exercise5.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_exercise5_py - 2017.12.10 at 14h 24m 17s.xml">
+      <configuration name="Unittests in exercise5.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="772" extended-state="6" />
@@ -357,7 +377,7 @@
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32791728" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32791728" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890856" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -367,7 +387,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38257018" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38257018" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -387,11 +407,12 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exercise 3" />
     <MESSAGE value="Exercise 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise 4" />
+    <MESSAGE value="Exercise 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="27" />
+      <option name="time" value="32" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -409,6 +430,11 @@
       </expression>
     </expressions>
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>data.split('\t')</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>x</expression-string>
         <language-id>Python</language-id>
@@ -446,11 +472,6 @@
       </expression>
       <expression>
         <expression-string>modulo - x/2</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>x / 2</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -670,14 +691,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/adventofcode_2017/exercise1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/adventofcode_2017/exercise2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -714,14 +727,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/adventofcode_2017/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="83" lean-forward="false" selection-start-line="8" selection-start-column="83" selection-end-line="8" selection-end-column="83" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/adventofcode_2017/exercise4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
@@ -750,20 +755,64 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/adventofcode_2017/input/exercise-6.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="49" lean-forward="true" selection-start-line="0" selection-start-column="49" selection-end-line="0" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adventofcode_2017/exercise5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/exercise5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="14" column="47" lean-forward="false" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+        <state relative-caret-position="80">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/adventofcode_2017/exercise5.py">
+    <entry file="file://$PROJECT_DIR$/adventofcode_2017/exercise1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+        <state relative-caret-position="0">
+          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adventofcode_2017/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="94" lean-forward="false" selection-start-line="8" selection-start-column="94" selection-end-line="8" selection-end-column="94" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/exercise6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adventofcode_2017/exercise6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
             <element signature="e#0#12#0" expanded="true" />
           </folding>
