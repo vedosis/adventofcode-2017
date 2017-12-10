@@ -1,10 +1,9 @@
-import click, os
+import click
 from adventofcode_2017 import cli
 
 
 @cli.command("ex2")
-def exercise1():
-    click.echo(os.getcwd())
+def exercise():
     with open("adventofcode_2017/input/exercise-2.txt") as file:
         checksum_1 = 0
         checksum_2 = 0

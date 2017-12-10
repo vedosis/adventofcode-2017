@@ -1,12 +1,9 @@
 import click
-import os
-
 from adventofcode_2017 import cli
 
 
 @cli.command("ex1")
-def exercise1():
-    click.echo(os.getcwd())
+def exercise():
     with open("adventofcode_2017/input/exercise-1.txt") as file:
         data = file.read()
         result = count_neighbors(data)
